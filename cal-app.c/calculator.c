@@ -39,6 +39,6 @@ int main()
 			printf("error");
 
 	}
-	printf("\nRESULT:%.2lf" ,result);
+	printf("RESULT:%.2lf\n" ,result);
 	return(0);
 }
